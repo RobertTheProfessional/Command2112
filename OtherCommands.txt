@@ -1,0 +1,17 @@
+﻿''''''''' ''''''''' ''''''''' ''''''''' ''''''''' 
+''''''''' Copyright 2007-2009 Brian Saville
+''''''''' Command2112 is free for non-commercial use.
+''''''''' Reuse of the source code is free for non-commercial use
+''''''''' provided that the source code used is credited to Command2112.
+''''''''' ''''''''' ''''''''' ''''''''' '''''''''
+
+SSFUN ? - Source names
+SSSPC ? - info about speaker settings
+PSCHN ? - speaker channel info ??
+
+SSINFAISSIG ? - audio input signal (analog, pcm, etc.)
+-- 01 = analog
+-- 03 = dolby digital
+
+SSTPN ? - preset info (tuner)
+SSXPN ? - preset info (XM)

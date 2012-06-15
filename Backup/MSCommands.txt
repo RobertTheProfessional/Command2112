@@ -1,0 +1,23 @@
+﻿''''''''' ''''''''' ''''''''' ''''''''' ''''''''' 
+''''''''' Copyright 2007-2009 Brian Saville
+''''''''' Command3808 is free for non-commercial use.
+''''''''' Reuse of the source code is free for non-commercial use
+''''''''' provided that the source code used is credited to Command3808.
+''''''''' ''''''''' ''''''''' ''''''''' '''''''''
+MSDIRECT
+MSPURE DIRECT
+MSSTEREO
+MSSTANDARD
+MSDOLBY DIGITAL
+MSDTS SURROUND
+MSNEURAL
+MSWIDE SCREEN
+MS7CH STEREO
+MSSUPER STADIUM
+MSROCK ARENA
+MSJAZZ CLUB
+MSCLASSIC CONCERT
+MSMONO MOVIE
+MSMATRIX
+MSVIDEO GAME
+MSVIRTUAL

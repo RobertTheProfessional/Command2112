@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Command3808">
+</Property><Property Name="Solution File" Value="C:\Users\Bobby\Desktop\Command3808\Command3808.sln">
+</Property><Property Name="Date" Value="Wednesday, April 25, 2012">
+</Property><Property Name="Time" Value="2:02:40 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Command3808" Source="Command3808.vbproj" Description="Project file successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Command3808.vbproj">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Command3808.vbproj.user" Description="Project user file successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Command3808.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="AboutBox1.Designer.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\AboutBox1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="AboutBox1.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\AboutBox1.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="ApplicationEvents.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="DB.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\DB.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Form1.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Form1.Designer.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Form1Code.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Form1Code.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Network_MT.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Network_MT.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Commands.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Commands.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="ScriptScheduler.Designer.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\ScriptScheduler.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="ScriptScheduler.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\ScriptScheduler.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Settings.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Settings.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="SplashScreen1.Designer.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\SplashScreen1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="SplashScreen1.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\SplashScreen1.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Stuff.vb" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Stuff.vb">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="app.config" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Denon.xls" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Denon.xls">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\app.manifest" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\DataSources\TabPageInfo.datasource" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\DataSources\TabPageInfo.datasource">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\DataSources\TunerPreset.datasource" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\DataSources\TunerPreset.datasource">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\PauseRecorderHS.png" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\PauseRecorderHS.png">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\RecordHS.png" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\RecordHS.png">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\StopHS.png" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\StopHS.png">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="mykey.snk" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\mykey.snk">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\denon.ico" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\denon.ico">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\PlayHS1.png" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\PlayHS1.png">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\PlayHS.png" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\PlayHS.png">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\Play.bmp" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\Play.bmp">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\AVR3808CIsm.jpg" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\AVR3808CIsm.jpg">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\AVR3808CI.jpg" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\AVR3808CI.jpg">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\v1.sql" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\v1.sql">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Resources\v3.sql" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Resources\v3.sql">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="MS Events.txt" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\MS Events.txt">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="MSCommands.txt" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\MSCommands.txt">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="OtherCommands.txt" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\OtherCommands.txt">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="sqlceca35.dll" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\sqlceca35.dll">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="sqlcecompact35.dll" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\sqlcecompact35.dll">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="sqlceer35EN.dll" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\sqlceer35EN.dll">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="sqlceme35.dll" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\sqlceme35.dll">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="sqlceoledb35.dll" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\sqlceoledb35.dll">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="sqlceqp35.dll" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\sqlceqp35.dll">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="sqlcese35.dll" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\sqlcese35.dll">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="AboutBox1.resx" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Form1.resx" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="ScriptScheduler.resx" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\ScriptScheduler.resx">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="SplashScreen1.resx" Description="File successfully backed up as C:\Users\Bobby\Desktop\Command3808\Backup\SplashScreen1.resx">
+</Event><Event ErrorLevel="1" Project="Command3808" Source="Command3808.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="Command3808.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Command3808" Source="Command3808.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Command3808" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Command3808" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
