@@ -11,6 +11,7 @@ C:\Users\Bobby\Documents\Programming\Command2112\bin\Debug\Command2112.applicati
 C:\Users\Bobby\Documents\Programming\Command2112\bin\Debug\Command2112.exe
 C:\Users\Bobby\Documents\Programming\Command2112\bin\Debug\Command2112.pdb
 C:\Users\Bobby\Documents\Programming\Command2112\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Bobby\Documents\Programming\Command2112\obj\Debug\Command2112.vbprojResolveAssemblyReference.cache
 C:\Users\Bobby\Documents\Programming\Command2112\obj\Debug\Command2112.AboutBox1.resources
 C:\Users\Bobby\Documents\Programming\Command2112\obj\Debug\Command2112.Form1.resources
 C:\Users\Bobby\Documents\Programming\Command2112\obj\Debug\Command2112.Resources.resources
@@ -22,4 +23,3 @@ C:\Users\Bobby\Documents\Programming\Command2112\obj\Debug\Command2112.exe.manif
 C:\Users\Bobby\Documents\Programming\Command2112\obj\Debug\Command2112.application
 C:\Users\Bobby\Documents\Programming\Command2112\obj\Debug\Command2112.exe
 C:\Users\Bobby\Documents\Programming\Command2112\obj\Debug\Command2112.pdb
-C:\Users\Bobby\Documents\Programming\Command2112\obj\Debug\Command2112.vbprojResolveAssemblyReference.cache
