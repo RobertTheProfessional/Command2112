@@ -1,8 +1,8 @@
 ﻿''''''''' ''''''''' ''''''''' ''''''''' ''''''''' 
 ''''''''' Copyright 2007-2009 Brian Saville
-''''''''' Command2112 is free for non-commercial use.
+''''''''' Command3808 is free for non-commercial use.
 ''''''''' Reuse of the source code is free for non-commercial use
-''''''''' provided that the source code used is credited to Command2112.
+''''''''' provided that the source code used is credited to Command3808.
 ''''''''' ''''''''' ''''''''' ''''''''' '''''''''
 Public NotInheritable Class SplashScreen1
 

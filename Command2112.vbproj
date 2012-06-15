@@ -177,15 +177,21 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Denon.xls" />
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
     </None>
-    <None Include="My Project\DataSources\TabPageInfo.datasource" />
-    <None Include="My Project\DataSources\TunerPreset.datasource" />
+    <None Include="My Project\DataSources\TabPageInfo.datasource">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\DataSources\TunerPreset.datasource">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="My Project\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <CustomToolNamespace>My</CustomToolNamespace>
